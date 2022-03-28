@@ -1,2 +1,0 @@
-# CoreDeneme
-Interface Eklendi
